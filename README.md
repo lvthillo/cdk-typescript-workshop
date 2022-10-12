@@ -16,4 +16,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## WIP
 
-* https://cdkworkshop.com/20-typescript/40-hit-counter/300-resources.html
+* https://cdkworkshop.com/20-typescript/50-table-viewer.html
